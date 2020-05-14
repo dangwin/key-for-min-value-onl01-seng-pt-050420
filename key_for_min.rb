@@ -10,7 +10,8 @@ min_value = nil
       min_value = num
       min_key = name
       elsif min_value > num
-      
+      min_value = num
+      min_key = name
   
 
 
