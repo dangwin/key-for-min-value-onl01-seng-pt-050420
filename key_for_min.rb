@@ -9,7 +9,8 @@ min_value = nil
     if min_value == nil
       min_value = num
       min_key = name
-      elsif 
+      elsif min_value > num
+      
   
 
 
