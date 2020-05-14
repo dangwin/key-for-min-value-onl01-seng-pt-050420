@@ -12,9 +12,10 @@ min_value = nil
       elsif min_value > num
       min_value = num
       min_key = name
+    end 
+  end
+  min_key
   
-
-
 
 
 end
